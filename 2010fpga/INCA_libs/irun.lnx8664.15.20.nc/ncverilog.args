@@ -1,0 +1,10 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+tb.v
+S1.v
+S2.v
++define+tb2+FSDB
++access+r
++nc64bit
